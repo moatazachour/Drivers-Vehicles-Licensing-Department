@@ -1,0 +1,27 @@
+C:\Users\MOATAZ\Documents\moataz\Course19\DVLD_BusinessLayer\bin\Debug\DVLD_BusinessLayer.dll
+C:\Users\MOATAZ\Documents\moataz\Course19\DVLD_BusinessLayer\bin\Debug\DVLD_BusinessLayer.pdb
+C:\Users\MOATAZ\Documents\moataz\Course19\DVLD_BusinessLayer\bin\Debug\DVLD_DataAccessLayer.dll
+C:\Users\MOATAZ\Documents\moataz\Course19\DVLD_BusinessLayer\bin\Debug\DVLD_DataAccessLayer.pdb
+C:\Users\MOATAZ\Documents\moataz\Course19\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MOATAZ\Documents\moataz\Course19\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MOATAZ\Documents\moataz\Course19\DVLD_BusinessLayer\obj\Debug\DVLD_Bus.693E2707.Up2Date
+C:\Users\MOATAZ\Documents\moataz\Course19\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.dll
+C:\Users\MOATAZ\Documents\moataz\Course19\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.pdb
+C:\Users\MOATAZ\Documents\moataz\Course19.O\DVLD_BusinessLayer\bin\Debug\DVLD_BusinessLayer.dll
+C:\Users\MOATAZ\Documents\moataz\Course19.O\DVLD_BusinessLayer\bin\Debug\DVLD_BusinessLayer.pdb
+C:\Users\MOATAZ\Documents\moataz\Course19.O\DVLD_BusinessLayer\bin\Debug\DVLD_DataAccessLayer.dll
+C:\Users\MOATAZ\Documents\moataz\Course19.O\DVLD_BusinessLayer\bin\Debug\DVLD_DataAccessLayer.pdb
+C:\Users\MOATAZ\Documents\moataz\Course19.O\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MOATAZ\Documents\moataz\Course19.O\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MOATAZ\Documents\moataz\Course19.O\DVLD_BusinessLayer\obj\Debug\DVLD_Bus.693E2707.Up2Date
+C:\Users\MOATAZ\Documents\moataz\Course19.O\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.dll
+C:\Users\MOATAZ\Documents\moataz\Course19.O\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.pdb
+C:\Users\MOATAZ\Documents\moataz\DVLD M\Course19.O\DVLD_BusinessLayer\bin\Debug\DVLD_BusinessLayer.dll
+C:\Users\MOATAZ\Documents\moataz\DVLD M\Course19.O\DVLD_BusinessLayer\bin\Debug\DVLD_BusinessLayer.pdb
+C:\Users\MOATAZ\Documents\moataz\DVLD M\Course19.O\DVLD_BusinessLayer\bin\Debug\DVLD_DataAccessLayer.dll
+C:\Users\MOATAZ\Documents\moataz\DVLD M\Course19.O\DVLD_BusinessLayer\bin\Debug\DVLD_DataAccessLayer.pdb
+C:\Users\MOATAZ\Documents\moataz\DVLD M\Course19.O\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MOATAZ\Documents\moataz\DVLD M\Course19.O\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MOATAZ\Documents\moataz\DVLD M\Course19.O\DVLD_BusinessLayer\obj\Debug\DVLD_Bus.693E2707.Up2Date
+C:\Users\MOATAZ\Documents\moataz\DVLD M\Course19.O\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.dll
+C:\Users\MOATAZ\Documents\moataz\DVLD M\Course19.O\DVLD_BusinessLayer\obj\Debug\DVLD_BusinessLayer.pdb
